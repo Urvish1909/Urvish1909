@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Urvish Patel
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Node.js with Express.js framwork.
-- 💞️ I’m looking to collaborate with it company
+- 👀 I’m interested in web devlopment.
+- 🌱 I’m currently learning Node.js.
+- 💞️ I’m looking to collaborate with it company.
 - 📫 How to reach me urvishvpatel199@gmail.com
 
 <!---
