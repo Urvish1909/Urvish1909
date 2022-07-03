@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Urvish Patel
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m a  MERN stack web developer.
 - 💞️ I’m looking to collaborate with it company.
 - 📫 How to reach me urvishvpatel199@gmail.com
 
